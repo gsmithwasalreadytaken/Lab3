@@ -1,3 +1,3 @@
 public class Rooms {
-    System.out.println();
+    System.out.println("pushed");
 }
